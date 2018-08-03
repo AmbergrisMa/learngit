@@ -10,3 +10,5 @@ usd reset HEAD <file> to unstage
 Creating a new branch is quick AND simple.
 
 add merge
+
+new version
