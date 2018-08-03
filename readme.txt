@@ -6,3 +6,5 @@ add & cimmit doc together
 usd reset HEAD <file> to unstage
 1
 2
+
+Creating a new branch is quick
